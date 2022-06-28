@@ -1,6 +1,7 @@
 import { Facebook, Instagram, LocationOn, Mail, PhoneIphone, Pinterest, Twitter } from "@mui/icons-material";
 import styled from "styled-components";
 import { mobile } from "../responsive";
+import React from "react";
 
 const Container = styled.div`
     display: flex;

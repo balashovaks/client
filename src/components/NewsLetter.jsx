@@ -1,5 +1,6 @@
 import { Send } from '@mui/icons-material';
 import styled from 'styled-components';
+import React from 'react';
 import { mobile } from '../responsive';
 
 const Container = styled.div`
