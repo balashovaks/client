@@ -5,6 +5,7 @@ import Products from "../components/Products";
 import NewsLetter from "../components/NewsLetter";
 import Footer from "../components/Footer";
 import { mobile } from "../responsive";
+import React from "react";
 
 
 const Container = styled.div``;

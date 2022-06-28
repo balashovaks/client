@@ -1,5 +1,6 @@
 import styled from "styled-components";
 import { mobile } from "../responsive";
+import React from "react";
 
 const Container = styled.div`
     width: 100vw;
@@ -43,6 +44,7 @@ const Agreement = styled.span`
 const Button = styled.button`
     width: 40%;
     border: none;
+    margin: 10px 17px;
     padding: 15px 20px;
     background-color: #4527A0;
     color: white;
